@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langgraph
+fastapi
+uvicorn
+pydantic
+faiss-cpu
+duckduckgo-search
+python-dotenv
